@@ -30,6 +30,8 @@ navIcon.addEventListener('click', ()=>{
 
 let mainNavbar = document.querySelector('#mainNavbar');
 
+let containerNav = document.querySelector('#container-nav');
+
 // CATTURA LOGHI
 
 let logoA = document.querySelector('#logoA');
@@ -44,20 +46,26 @@ window.addEventListener('scroll', ()=>{
         mainNavbar.classList.remove('bg-transparent');
         mainNavbar.classList.add('background-primaryC');
 
-        mainNavbar.style.height = '100px';
+        // mainNavbar.style.height = '100px';
+        mainNavbar.style.padding = '20px 0px';
 
         logoB.classList.remove('d-none');
         logoA.classList.add('d-none');
+
+        
 
     } else {
 
         mainNavbar.classList.remove('background-primaryC');
         mainNavbar.classList.add('bg-transparent');
 
-        mainNavbar.style.height = '60px';
+        // mainNavbar.style.height = '60px';
+        mainNavbar.style.padding = '10px 0px';
 
         logoA.classList.remove('d-none');
         logoB.classList.add('d-none');
+
+      
 
     }
 
@@ -164,5 +172,72 @@ let observed = new IntersectionObserver(
 )  
 
 observed.observe(h2Test);
+
+
+// EVENTO MOUSE ENTER
+
+// cattura dei camioncini
+let camioncini = document.querySelectorAll('.fa-truck-fast');
+
+// cattura delle card
+let columns = document.querySelectorAll('.col-custom');
+
+// variabile d'appoggio per far ritornare tutto alle origini
+let columnsConfirm = false;
+
+columns.forEach( (colonna, i)=>{
+    
+
+    // alla singola colonna attacco l'evento mouseenter
+
+        colonna.addEventListener('mouseenter', ()=>{
+
+        if(columnsConfirm == false){
+
+            camioncini[i].classList.remove('text-secondaryC');
+            camioncini[i].classList.add('text-accentC');
+
+        
+        } else {
+
+               // alla seconda entrata
+               camioncini[i].classList.remove('text-blackC'); 
+
+                // e diventa per un attimo del colore di sfondo finché non parte il mouse leave
+
+
+        }
+           
+    
+        })
+
+   
+
+    // alla singola colonna attacco l'evento mouseleave
+
+    colonna.addEventListener('mouseleave', ()=>{
+
+
+        if(columnsConfirm == false){
+
+            camioncini[i].classList.remove('text-accentC');
+            camioncini[i].classList.add('text-blackC');
+
+            columnsConfirm = true;
+
+        } else {
+
+            // alla seconda uscita 
+            
+            camioncini[i].classList.add('text-secondaryC');
+
+            columnsConfirm = false;
+
+        }
+
+    })
+
+
+});
 
 
