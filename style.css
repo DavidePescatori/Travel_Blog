@@ -156,7 +156,9 @@ h1, h2, h3{
     width: 600px;
     height: 300px;
 
-  }
+}
+
+
 
   .card-custom{
 
@@ -233,6 +235,12 @@ h1, h2, h3{
 
 .divVuoti{
     height: 50px;
+}
+
+.car{
+
+    height: 400px;
+   
 }
 
 
