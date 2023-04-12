@@ -1,0 +1,347 @@
+[
+    {
+        "id":1,
+        "name": "Florida 360°",
+        "category": "Stati Uniti d'America",
+        "price": "1899",
+        "img": "https://etcdn.net/thumbnails/31844/it-miami-spaziosi-appartamenti-55600.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Islanda on the road",
+        "category": "Aurore Boreali",
+        "price": "1799",
+        "img": "https://etcdn.net/thumbnails/36105/it-reykjavik-weekend-lungo-a-caccia-dellaurora-boreale-62503.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Portogallo 360°",
+        "category": "Europa",
+        "price": "1550",
+        "img": "https://etcdn.net/thumbnails/37336/it-lisbona-portogallo-da-lisbona-a-porto-per-chi-viaggia-solo-6bc48.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Vietnam 360°",
+        "category": "Sud-est asiatico",
+        "price": "1900",
+        "img": "https://etcdn.net/thumbnails/29902/it-hanoi-tour-di-gruppo-lesperienza-del-vietnam-da-hanoi-a-saigon-con-pernotto-in-giunca-ad-halong-75d2f.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Perù 360°",
+        "category": "America del Sud",
+        "price": "2100",
+        "img": "https://etcdn.net/thumbnails/37204/it-lima-formula-smart-lima-cusco-la-valle-sacra-e-machu-picchu-in-6-giorni-6b05f.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Australia 360°",
+        "category": "Oceania",
+        "price":"3250",
+        "img": "https://etcdn.net/thumbnails/29867/it-sydney-queensland-e-new-south-wales-in-liberta-avventura-in-camper-53727.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Sardegna",
+        "category": "Italia",
+        "price":"1400",
+        "img": "https://etcdn.net/thumbnails/8830/it-muravera-costa-rei-marina-rey-beach-resort-con-nave-inclusa-55bb3.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "Sahara express",
+        "category": "La magia del Deserto",
+        "price": "1300",
+        "img": "https://etcdn.net/thumbnails/7227/it-marrakech-tour-sud-e-kasbah-in-4x4-50bab.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "California",
+        "category": "Stati Uniti d'America",
+        "price": "2200",
+        "img": "https://etcdn.net/thumbnails/36083/it-san-francisco-la-costa-californiana-in-tour-di-gruppo-61e5e.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Lapponia",
+        "category": "Aurore Boreali",
+        "price": "2500",
+        "img": "https://etcdn.net/thumbnails/35446/it-reykjavik-speciale-volo-diretto-da-torino-20-24-aprile-2017-58d5c.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Grecia",
+        "category": "Europa",
+        "price": "1450",
+        "img": "https://etcdn.net/thumbnails/38769/it-naxos-hotel-anatoli-2-stelle-78c1c.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "Thailandia 360°",
+        "category": "Sud-est asiatico",
+        "price": "2000",
+        "img": "https://etcdn.net/thumbnails/23143/it-bangkok-phuket-phi-phi-island-i-templi-e-il-meglio-del-mar-delle-andamane-4dfaa.jpg"
+    },
+
+    {
+        "id": 13,
+        "name": "Brasile 360°",
+        "category": "America del Sud",
+        "price": "1900",
+        "img": "https://etcdn.net/thumbnails/37906/it-santos-crociera-msc-la-costa-brasiliana-gluten-free-in-10-giorni-volo-incluso-con-stop-a-rio-de-janeiro-6fb69.jpg"
+    },
+
+    {
+        "id": 14,
+        "name": "Nuova Zelanda",
+        "category": "Oceania",
+        "price": "4000",
+        "img": "https://etcdn.net/thumbnails/39083/it-cook-isole-viaggio-esperenziale-a-rarotonga-e-aitutaki-79060.jpg"
+    },
+
+    {
+        "id": 15,
+        "name": "Sicilia",
+        "category": "Italia",
+        "price": "1200",
+        "img": "https://etcdn.net/thumbnails/29306/it-vulcano-il-benessere-nei-fanghi-di-vulcano-7d4f1.jpg"
+    },
+
+    {
+        "id": 16,
+        "name": "Namibia",
+        "category": "La magia del Deserto",
+        "price": "1899",
+        "img": "https://etcdn.net/thumbnails/1296/it-windhoek-speciale-parco-etosha-568ed.jpg"
+    },
+
+    {
+        "id": 17,
+        "name": "New York 360°",
+        "category": "Stati Uniti d'America",
+        "price": "1800",
+        "img": "https://etcdn.net/thumbnails/37819/it-new-york-soggiorno-nel-cuore-della-citta-anche-per-celiaci-6fe00.jpg"
+    },
+
+    {
+        "id": 18,
+        "name": "Norvegia",
+        "category": "Aurore Boreali",
+        "price": "1700",
+        "img": "https://etcdn.net/thumbnails/33344/it-oslo-splendore-dei-fiordi-tour-di-gruppo-con-partenza-garantita-5c1ed.jpg"
+    },
+    
+    {
+        "id": 19,
+        "name": "Andalusia",
+        "category": "Europa",
+        "price": "1450",
+        "img": "https://etcdn.net/thumbnails/30367/it-malaga-week-end-con-spettacolo-di-flamenco-incluso-64c35.jpg"
+    },
+
+    {
+        "id": 21,
+        "name": "Patagonia",
+        "category": "America del Sud",
+        "price": "1900",
+        "img": "https://etcdn.net/thumbnails/36788/it-santiago-del-cile-perito-moreno-in-liberta-67f20.jpg"
+    },
+
+    {
+        "id": 22,
+        "name": "Queensland",
+        "category": "Oceania",
+        "price": "3500",
+        "img": "https://etcdn.net/thumbnails/29867/it-sydney-queensland-e-new-south-wales-in-liberta-avventura-in-camper-53720.jpg"
+    },
+
+    {
+        "id": 23,
+        "name": "Puglia",
+        "category": "Italia",
+        "price": "1100",
+        "img": "https://etcdn.net/thumbnails/31005/it-gallipoli-residence-ionian-716bd.jpg"
+    },
+
+    {
+        "id": 24,
+        "name": "Giordania 360°",
+        "category": "La magia del Deserto",
+        "price": "1450",
+        "img": "https://etcdn.net/thumbnails/832/it-amman-tour-bellezze-giordane-petra-mar-morto-e-notte-in-campo-tendato-nel-wadi-rum-8-giorni-75277.jpg"
+    },
+
+    {
+        "id": 25,
+        "name": "Far West 360°",
+        "category": "Stati Uniti d'America",
+        "price": "2100",
+        "img": "https://etcdn.net/thumbnails/6212/it-los-angeles-fly-drive-southwest-wanderer-54787.jpg"
+    },
+    
+    {
+        "id": 26,
+        "name": "Finlandia",
+        "category": "Aurore Boreali",
+        "price": "2000",
+        "img": "https://etcdn.net/thumbnails/37107/it-rovaniemi-lapponia-capo-nord-e-lofoten-6a0fd.jpg"
+    },
+
+    {
+        "id": 27,
+        "name": "Amsterdam",
+        "category": "Europa",
+        "price": "1600",
+        "img": "https://etcdn.net/thumbnails/35219/it-amsterdam-week-end-nella-capitale-olandese-60025.jpg"
+    },
+
+    {
+        "id": 28,
+        "name": "Cambogia",
+        "category": "Sud-est asiatico",
+        "price": "2200",
+        "img": "https://etcdn.net/thumbnails/39174/it-cambogia-fam-trip-tour-classico-della-cambogia-79a74.jpg"
+    },
+
+    {
+        "id": 29,
+        "name": "Bolivia",
+        "category": "America del Sud",
+        "price": "2100",
+        "img": "https://etcdn.net/thumbnails/36277/it-la-paz-tre-giorni-a-zonzo-attorno-al-lago-salato-piu-grande-de-mondo-63c81.jpg"
+    },
+
+    {
+        "id": 30,
+        "name": "Western Australia",
+        "category": "Oceania",
+        "price": "4200",
+        "img": "https://etcdn.net/thumbnails/39256/it-perth-la-magia-del-western-australia-7a233.jpg"
+    },
+
+    {
+        "id": 31,
+        "name": "Costiera Amalfitana",
+        "category": "Italia",
+        "price": "1500",
+        "img": "https://etcdn.net/thumbnails/25082/it-maiori-hotel-4-stelle-nella-splendida-cornice-della-costiera-amalfitana-5c2b0.jpg"
+    },
+
+    {
+        "id": 32,
+        "name": "Dubai express",
+        "category": "La magia del Deserto",
+        "price": "1699",
+        "img": "https://etcdn.net/thumbnails/33509/it-dubai-a-spasso-per-la-citta-simbolo-degli-emirati-4ff30.jpg"
+    },
+
+    {
+        "id": 33,
+        "name": "Chicago",
+        "category": "Stati Uniti d'America",
+        "price": "1850",
+        "img": "https://etcdn.net/thumbnails/23885/it-chicago-chicago-the-windy-city-61d90.jpg"
+    },
+
+    {
+        "id": 34,
+        "name": "Islanda adventure",
+        "category": "Aurore Boreali",
+        "price": "2500",
+        "img": "https://etcdn.net/thumbnails/30802/it-reykjavik-viaggio-fly-drive-classico-2016-7-notti-e-noleggio-auto-5a130.jpg"
+    },
+
+    {
+        "id": 35,
+        "name": "Mont Saint-Michel",
+        "category": "Europa",
+        "price": "1600",
+        "img": "https://etcdn.net/thumbnails/9221/it-parigi-magia-bretone-5a5fa.jpg"
+    },
+
+    {
+        "id": 37,
+        "name": "Cile 360°",
+        "category": "America del Sud",
+        "price": "3000",
+        "img": "https://etcdn.net/thumbnails/36787/it-santiago-del-cile-torres-del-paine-in-liberta-67f55.jpg"
+    },
+
+    {
+        "id": 38,
+        "name": "Capodanno a Sydney",
+        "category": "Oceania",
+        "price": "5000",
+        "img": "https://etcdn.net/thumbnails/28432/it-sydney-il-fascino-del-coastal-drive-victoria-e-il-nuovo-galles-del-sud-536eb.jpg"
+    },
+
+    {
+        "id": 39,
+        "name": "Dolomiti 360°",
+        "category": "Italia",
+        "price": "1600",
+        "img": "https://etcdn.net/thumbnails/38216/it-dobbiaco-dalle-dolomiti-al-mare-lungo-la-vecchia-ferrovia-727e1.jpg"
+    },
+
+    {
+        "id": 40,
+        "name": "Marocco",
+        "category": "La magia del Deserto",
+        "price": "1299",
+        "img": "https://etcdn.net/thumbnails/6878/it-marrakech-tour-delle-citta-imperiali-iniziando-dal-sud-4f1ae.jpg"
+    },
+
+    {
+        "id": 41,
+        "name": "Hawaii",
+        "category": "Stati Uniti d'America",
+        "price": "4000",
+        "img": "https://etcdn.net/thumbnails/39208/it-honolulu-scopri-lisola-piu-famosa-dellarcipelago-hawaiano-79e32.jpg"
+    },
+
+    {
+        "id": 42,
+        "name": "Da Stoccolma alla Lapponia svedese",
+        "category": "Aurore Boreali",
+        "price": "1700",
+        "img": "https://etcdn.net/thumbnails/36338/it-stoccolma-tesori-di-svezia-e-danimarca-6457d.jpg"
+    },
+
+    {
+        "id": 43,
+        "name": "Berlino 360°",
+        "category": "Europa",
+        "price": "1500",
+        "img": "https://etcdn.net/thumbnails/35585/it-amburgo-lungo-il-fiume-elba-ed-havel-da-amburgo-a-berlino-6acbb.jpg"
+    },
+
+    {
+        "id": 44,
+        "name": "Thailandia mare",
+        "category": "Sud-est asiatico",
+        "price": "2300",
+        "img": "https://etcdn.net/thumbnails/23143/it-bangkok-phuket-phi-phi-island-i-templi-e-il-meglio-del-mar-delle-andamane-4dfa5.jpg"
+    },
+
+    {
+        "id": 45,
+        "name": "Argentina",
+        "category": "America del Sud",
+        "price": "2000",
+        "img": "https://etcdn.net/thumbnails/3366/it-buenos-aires-meraviglie-della-patagonia-e-cascate-di-iguazu-partenza-garantita-in-italiano-70284.jpg"
+    }
+
+  
+]
