@@ -300,7 +300,7 @@ h1, h2, h3{
     height: 80px;
     width: 80px;
     border-radius: 50%;
-    /* border: 2px solid var(--blackCustom); */
+    border: 2px solid var(--blackCustom);
 
     display: flex;
     justify-content: center;
@@ -316,17 +316,15 @@ h1, h2, h3{
     height: 80px;
     width: 80px;
     border-radius: 50%;
-    /* border: 2px solid var(--blackCustom); */
+    border: 2px solid var(--blackCustom);
 
     position: absolute;
 
-    /* transform: translate(200px); */
-    /* background-color: red; */
     transition: 1s;
 
-    /* background-image: url('./media/valerio_vacca.png'); */
+    background-image: url('./media/Davide.jpg');
     background-size: cover;
-    /* background-color: var(--accent); */
+    background-color: var(--accent);
     cursor: pointer;
 }
 
@@ -343,7 +341,7 @@ h1, h2, h3{
     border: 2px solid var(--secondary);
 
     box-shadow: 2px 0px 0px 2px var(--accent);
-    /* background-image: url('./media/valerio_vacca.png'); */
+    background-image: url('./media/Davide.jpg');
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;

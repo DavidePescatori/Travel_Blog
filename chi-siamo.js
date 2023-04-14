@@ -90,10 +90,10 @@ let conferma = false;
 let teachers = [
 
 
-    { name : 'Valerio', languages : ['HTML', 'CSS', 'JS', 'Pokémon'], url : './media/valerio_vacca.png'},
-    { name : 'Francesco', languages : ['HTML', 'CSS', 'Bootstrap', 'DOM'], url : './media/francesco_talamona.png'},
-    { name : 'Paola', languages : ['PHP', 'OOP', 'Laravel', 'Galga'], url : './media/paola_pichierri.png'},
-    { name : 'Robbolo', languages : ['React', 'Database', 'Manga'], url : './media/roberto_russo.png'},
+    { name : 'Davide', languages : ['HTML', 'CSS', 'JS'], url : './media/Davide.jpg'},
+    { name : 'Davide', languages : ['HTML', 'CSS', 'JS'], url : './media/Davide.jpg'},
+    { name : 'Davide', languages : ['HTML', 'CSS', 'JS'], url : './media/Davide.jpg'},
+    { name : 'Davide', languages : ['HTML', 'CSS', 'JS'], url : './media/Davide.jpg'},
 
 
 ]
@@ -130,9 +130,9 @@ movedDivs.forEach((moved, i)=>{
 
         // catturo la singola card per cambiare immagine
 
-        let card = document.querySelector('.teacher-card');
+        // let card = document.querySelector('.teacher-card');
         
-        card.style.backgroundImage=`url('${teachers[i].url}')`;
+        // card.style.backgroundImage=`url('${teachers[i].url}')`;
 
 
     })
