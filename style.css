@@ -322,7 +322,7 @@ h1, h2, h3{
 
     transition: 1s;
 
-    background-image: url('./media/Davide.jpg');
+    /* background-image: url('./media/Davide.jpg'); */
     background-size: cover;
     background-color: var(--accent);
     cursor: pointer;
@@ -341,7 +341,7 @@ h1, h2, h3{
     border: 2px solid var(--secondary);
 
     box-shadow: 2px 0px 0px 2px var(--accent);
-    background-image: url('./media/Davide.jpg');
+    /* background-image: url('./media/Davide.jpg'); */
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
